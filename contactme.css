@@ -1,0 +1,73 @@
+*{
+    color: white;
+    background-color: black;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+}
+.portfolio{
+    color: white;
+    margin-left: 50px;
+}
+
+.home{
+    margin-left: 1000px;
+    display: flex;
+    align-items: center;
+}
+.about{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.education{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contactme{
+    display: flex;
+}
+
+.me{
+    font-size: 2rem;
+    margin-left: 10px;
+    color: rgb(0, 95, 135);
+}
+
+.contactbox{
+    width: 300px;
+    border: 15px solid rgb(8, 180, 248);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left:350px;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.footerinfo{
+    text-align: center;
+    display: flex;
+    margin-left: 500px;
+}

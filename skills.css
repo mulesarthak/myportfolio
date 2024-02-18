@@ -1,0 +1,84 @@
+*{
+    color: white;
+    background-color: black;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+}
+.portfolio{
+    color: white;
+    margin-left: 50px;
+}
+
+.home{
+    margin-left: 1000px;
+    display: flex;
+    align-items: center;
+}
+.about{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.education{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.codingskills{
+    text-align: center;
+    font-size: 2rem;
+    display: flex;
+}
+.coding{
+    margin-left: 650px;
+    font-size: 2rem;
+}
+.skills{
+    margin-left: 10px;
+    font-size: 2rem;
+    color: rgb(0, 95, 135);
+}
+.skillbox{
+    height: 400px;
+    width: 1100px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    margin-left: 140px;
+}   
+.skillsimage{
+    background-image: url("barchart2.png");
+    height: 400px;
+    width: 1100px;
+    color: red;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.footerinfo{
+    text-align: center;
+    display: flex;
+    margin-left: 500px;
+}
+

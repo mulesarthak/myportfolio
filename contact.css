@@ -1,0 +1,48 @@
+*{
+    color: white;
+    background-color: black;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+}
+.portfolio{
+    color: white;
+    margin-left: 50px;
+}
+
+.home{
+    margin-left: 1000px;
+    display: flex;
+    align-items: center;
+}
+.about{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.education{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 600px;
+}
+.contactbox{
+    
+}

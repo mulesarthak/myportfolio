@@ -1,0 +1,120 @@
+*{
+    color: white;
+    background-color: black;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+}
+.portfolio{
+    color: white;
+    margin-left: 50px;
+}
+
+.home{
+    margin-left: 1000px;
+    display: flex;
+    align-items: center;
+}
+.about{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.education{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.journey{
+    display: flex;
+    text-align: center;
+    
+}
+.my{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    align-items: center;
+    margin-left: 650px;
+}
+.jour{
+    font-size: 2rem;
+    margin-left: 10px;
+    color: rgb(0, 95, 135);
+}
+.largebox{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.eduboxup{
+    display: flex;
+}
+.edubox1{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left:350px;
+}
+.edubox2{
+    width: 330px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+.eduboxdown{
+    display: flex;
+}
+.edubox3{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 550px;
+}
+.edubox4{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+
+}
+footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.footerinfo{
+    text-align: center;
+    display: flex;
+    margin-left: 500px;
+}
+
+
